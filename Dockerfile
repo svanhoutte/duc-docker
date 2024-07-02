@@ -1,5 +1,5 @@
-FROM ubuntu:18.04
-MAINTAINER minostauros <6764739+minostauros@users.noreply.github.com>
+FROM ubuntu:24.04
+LABEL maintainer="efreeze"
 
 # Set correct environment variables
 ENV HOME /duc
